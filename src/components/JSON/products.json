@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Tan Solid Laptop Backpack",
+    "description": "Premium quality backpack with laptop compartment",
+    "price": 49.00,
+    "oldPrice": 69.00,
+    "image": "shirt.png",
+    "category": "BACKPACKS"
+  },
+  {
+    "id": 2,
+    "name": "Leather Messenger Bag",
+    "description": "Genuine leather bag for professionals",
+    "price": 89.00,
+    "oldPrice": 120.00,
+    "image": "bag.png",
+    "category": "BAGS"
+  },
+  {
+    "id": 3,
+    "name": "Sports Water Bottle",
+    "description": "Eco-friendly 1L sports bottle",
+    "price": 15.00,
+    "oldPrice": 25.00,
+    "image": "watch.png",
+    "category": "ACCESSORIES"
+  },
+  {
+    "id": 4,
+    "name": "Sports Water Bottle",
+    "description": "Eco-friendly 1L sports bottle",
+    "price": 15.00,
+    "oldPrice": 25.00,
+    "image": "girl.png",
+    "category": "ACCESSORIES"
+  }
+]
